@@ -12,7 +12,7 @@ const Navbar = ({setIsCartOpen}) => {
           setIsCartOpen(false)
         }}>Cart</p>
       </div>
-      <button>Log In</button>
+      <button>Log in</button>
     </div>
   );
 };
