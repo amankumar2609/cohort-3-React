@@ -78,7 +78,7 @@ const ProductCard = ({ product }) => {
           mt-4 w-full rounded-xl bg-gray-800 cursor-pointer py-3
           font-semibold text-white
           transition-all duration-200
-          hover:bg-gray-700
+          hover:bg-yellow-600 
           active:scale-95
         "
       >
